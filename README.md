@@ -1,5 +1,5 @@
 Hi, I’m @alexis-boyer <br />
-I’m interested in Web developement, especially Angularar, php Symfony and Laravel, Python Django and Vue.js <br />
+I’m interested in Web developement, especially Angular, PHP Symfony and Laravel, Python Django and Vue.js <br />
 I’m currently learning computer science at university of Lyon, France <br />
 I’m looking to collaborate on any web related repo <br />
 You can reach me at alexis.boyer$$$79@gmail.com (just take back the '$$$') <br />
