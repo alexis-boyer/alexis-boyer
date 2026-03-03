@@ -24,7 +24,7 @@ And I also use on my free time and during school projects:
   </li>
 </ul>
 I’m currently studying for a work-study master's degree in computer science at the University of Lyon, France. Focused on web technologies and protocols <br />
-I'm working for IFMH, a French company developing CMMS for professional<br/>
+I'm working for IFMH, a French company developing CMMS for professionals<br/>
 I’m open to work on different repositories, especially ones about open-sourced CMMS or ERP software using the technologies mentioned above. <br />
 You can reach me at alexis.boyer$$$79 at gmail.com (just take back the '$$$') <br />
 
